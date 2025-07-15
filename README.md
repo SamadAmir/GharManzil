@@ -31,7 +31,7 @@ Follow these instructions to set up the GharManzil Renting Application locally:
 
 **1- Clone the Repository:** 
    ```bash
-    https://github.com/UmerKhan-18/GharManzil-FYP.git
+    https://github.com/SamadAmir/GharManzil.git
    ```
 **2- Server Setup:** 
    Navigate to the api folder and follow the instructions in the api's README.md to set up the backend.
